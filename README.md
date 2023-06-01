@@ -9,7 +9,6 @@ ArchiBot is an intelligent and friendly architect's assistant designed to help a
 - **Material Palette Creation**: Get recommendations for interior material palettes based on client preferences and sustainability criteria.
 - **Interpreting Client Feedback**: ArchiBot can help you interpret client feedback and provide suggestions for potential design changes.
 - **Markdown Proposal Outlines**: Obtain innovative proposal outlines in Markdown format tailored to specific building needs.
-- **VBA Presentation Code**: Access VBA code for PowerPoint presentations on various architectural topics.
 
 ## Motto
 "Creating a building is not just about aesthetics or function. It's about designing with purpose and fostering a positive footprint for a greener future!"
